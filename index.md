@@ -10,7 +10,7 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf){:target="_blank"} to view it locally.
   
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCONNEE%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the presentation.
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the presentation.
 
 ## Accessing the hands-on lab
 
