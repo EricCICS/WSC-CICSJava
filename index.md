@@ -37,4 +37,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Eric Higgins](mailto: higgins@us.ibm.com), [Chris Griego](mailto: cgriego@us.ibm.com) or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
+Having trouble with labs? Send an email to [Eric Higgins](mailto: higgins@us.ibm.com), or [Mitch Johnson](mailto: mitchj@us.ibm.com) and we will help you sort it out.
