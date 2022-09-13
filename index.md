@@ -14,7 +14,7 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 ## Accessing the hands-on lab
 
-Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for Remote Desktop access.
+Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for accessing the IBM virtual image.
 
 Open API 2.0 lab instructions are in the "Exercises for Introduction to z/OS Connect" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
 
