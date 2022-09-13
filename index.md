@@ -40,4 +40,4 @@ The server XML configuration files referenced in the exercises can be downloaded
 </div>
 
 ## Help 
-Having trouble with labs? Send an email to [Eric Higgins](mailto: higgins@us.ibm.com), and I will help you sort it out.
+Having trouble with labs? Send an email to [Eric Higgins](mailto: erichiggins@us.ibm.com), and I will help you sort it out.
