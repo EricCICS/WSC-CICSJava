@@ -10,13 +10,14 @@ Thank you for attending this Washington Systems Center(WSC) workshop.
 
 The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf){:target="_blank"} to view it locally.
   
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the presentation.
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the z/OS Connect Introduction presentation.
 
 ## Accessing the hands-on lab
 
 Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for Remote Desktop access.
 
 Open API 2.0 lab instructions are in the "Exercises for Introduction to z/OS Connect" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
+
 Open API 3.0 lab instructions are in the "Exercises for OpenAPI3" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
 
 
