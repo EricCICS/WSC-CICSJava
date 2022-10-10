@@ -1,7 +1,33 @@
 IBM z/OS Connect EE Workshop,,,,,,,
 Serial No,URL,User ID for Web browser,IP Address for Remote Desktop,User ID for Remote Desktop,Password,Domain,machine #
-a1f1862cb1e997811dc1818bceeccdd4,https://T-6827-169-60-104-247.ibmztrialmachines.com/,Administrator,T-6827-169-60-104-247.ibmztrialmachines.com,w-6827-k\Administrator,u670K1YkKF7jVvuvhJbi,w-6827-k,6827
-76830c4e970e4aa92b3f28df053c4143,https://T-6829-169-59-156-210.ibmztrialmachines.com/,Administrator,T-6829-169-59-156-210.ibmztrialmachines.com,w-6829-k\Administrator,8dKdu7MwJEV6QmRlpFys,w-6829-k,6829
-2,https://T-6828-169-60-104-248.ibmztrialmachines.com/,Administrator,T-6828-169-60-104-248.ibmztrialmachines.com,w-6828-k\Administrator,D214LGjMel69c1iG5ttv,w-6828-k,6828
-  , , , , , ,  , 
- , , , , , , , 
+,,,,,,,
+a1f1862cb1e997811dc1818bceeccdd4,https://T-7621-169-59-156-234.ibmztrialmachines.com/,Administrator,T-7621-169-59-156-234.ibmztrialmachines.com,w-7621-k\Administrator,vO7PUiE7aV30hIqPbx3R,w-7621-k,7621
+5f36f562a3a5c90d57c950e34313560b,https://T-7622-169-59-156-240.ibmztrialmachines.com/,Administrator,T-7622-169-59-156-240.ibmztrialmachines.com,w-7622-k\Administrator,gwgETeA3mL9YMfhAH1jG,w-7622-k,7622
+3,https://T-7623-169-59-156-228.ibmztrialmachines.com/,Administrator,T-7623-169-59-156-228.ibmztrialmachines.com,w-7623-k\Administrator,6m5e5WbulO9Z9v1ct2t0,w-7623-k,7623
+3,https://T-7620-169-59-156-221.ibmztrialmachines.com/,Administrator,T-7620-169-59-156-221.ibmztrialmachines.com,w-7620-k\Administrator,6dy5y2Rj81rb2293afau,w-7620-k,7620
+2,https://T-7619-169-59-156-206.ibmztrialmachines.com/,Administrator,T-7619-169-59-156-206.ibmztrialmachines.com,w-7619-k\Administrator,Lp89vj5njyYe8c6bgNcU,w-7619-k,7619
+1,https://T-7618-169-59-156-199.ibmztrialmachines.com/,Administrator,T-7618-169-59-156-199.ibmztrialmachines.com,w-7618-k\Administrator,D1duetvP0tIRqeojGv9x,w-7618-k,7618
+,,,,,,,
+Wells Fargo starting 10/11,,,,,,,
+0c1b70e53ec6f677ae8582c02d0d3112,,,,,,,
+f3845b29caa991b78b170e31b88d5565,,,,,,,
+1b7572099b1c27772a67958dc6731837,,,,,,,
+f511d335bfe68cfbeb650f956834cb0f,,,,,,,
+3a5857498f2e0576c32a7e0644203744,,,,,,,
+8177203414046bdf506ec91e2d84086f,,,,,,,
+1fe52d582df8218b69fad0eb89e3f286,,,,,,,
+5718a958c4147bcc102cbe2c9fe216b3,,,,,,,
+c150c385b70b678d28e3314637f3992e,,,,,,,
+32793e2216e0522038af24d19572d262,,,,,,,
+b224f420325bd352f15a768362dc1772,,,,,,,
+0161e8be331917c6d35967db593273a1,,,,,,,
+ae1d08dc05c33dfae27945290654935a,,,,,,,
+fd00d9e6e10ca429f410106b7566ba03,,,,,,,
+29a43d6e9bd3a9388fa9cd9e4a57cbe2,,,,,,,
+eb420406e205ce1644d36f5fde06966c,,,,,,,
+32468df26cfd58d16d2190a339ae8c1c,,,,,,,
+6c32970aa75c0008d120e32ceb61b9b7,,,,,,,
+97c86ece95f01a55e2929ad95c959c59,,,,,,,
+83b18072f7062ab8d46c063728e1048a,,,,,,,
+a177d9e85fdfcfbaaba552cc0244ea82,,,,,,,
+6bdd119962ddf59b5627789c91fd1e61,,,,,,,
