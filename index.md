@@ -6,23 +6,25 @@
 
 ## Welcome
 
-Thank you for attending this Washington Systems Center(WSC) workshop. 
+Thank you for attending this Washington Systems Center(WSC) z/OS Connect workshop. 
 
-The WSC's z/OS Connect EE Getting Started Guide can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/zOS%20Connect%20EE%20V3%20Getting%20Started.pdf){:target="_blank"} to view it locally.
-  
-Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} to download the z/OS Connect Introduction presentation.
+Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZCINTRO%20-%20Introduction%20to%20zOS%20Connect%20EE.pdf){:target="_blank"} if you would like to download the z/OS Connect Introduction presentation.
+
+
 
 ## Accessing the hands-on lab
 
-Click [here](Remote Desktop Windows.pdf){:target="_blank"} to read the instruction for accessing the IBM virtual image.
+Click [here](Remote Desktop Windows.pdf){:target="_blank"} for detailed instruction for accessing the IBM virtual image.
 
-Open API 2.0 lab instructions are in the "Exercises for Introduction to z/OS Connect" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
+Open API 2.0 lab instructions are in the "Exercises for Introduction to z/OS Connect" folder on the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
 
-Open API 3.0 lab instructions are in the "Exercises for OpenAPI3" folder on your remote desktop, or can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
+Open API 3.0 lab instructions are in the "Exercises for OpenAPI3" folder the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
 
 
 The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples){:target="_blank"} to view it locally.
 
+
+## Remote Sytem Credentials
 
 **Please enter your email address used for registration to retrieve your unique log in details.**
 
