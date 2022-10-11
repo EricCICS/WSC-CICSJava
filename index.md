@@ -14,14 +14,13 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 ## Accessing the hands-on lab
 
-Click [here](Remote Desktop Windows.pdf){:target="_blank"} for detailed instruction for accessing the IBM virtual image.
+1) Click [here](Remote Desktop Windows.pdf){:target="_blank"} for detailed instruction on how to access the IBM virtual image that hosts the exercises.  You'll need to supply your credentials which are obtained by providing your email below on this page.
 
-Open API 2.0 lab instructions are in the "Exercises for Introduction to z/OS Connect" folder on the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
+2) The Open API 2.0 lab booklets are in the "Exercises for Introduction to z/OS Connect" folder on the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} to view it locally.
 
-Open API 3.0 lab instructions are in the "Exercises for OpenAPI3" folder the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
+3) The Open API 3.0 lab booklets are in the "Exercises for OpenAPI3" folder on the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
 
-
-The server XML configuration files referenced in the exercises can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples){:target="_blank"} to view it locally.
+4) The server XML configuration files referenced in the exercises documents can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples){:target="_blank"} to view it locally.
 
 
 ## Remote Sytem Credentials
