@@ -20,7 +20,6 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 3) The Open API 3.0 lab booklets are in the "Exercises for OpenAPI3" folder on the virtual environment, and they can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} to view it locally.
 
-4) The server XML configuration files referenced in the exercises documents can be downloaded from [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/XML%20Samples){:target="_blank"} to view it locally.
 
 
 ## Remote Sytem Credentials
