@@ -16,9 +16,11 @@ Click [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/blob/master/ZC
 
 1) Click [here](Remote Desktop Windows.pdf){:target="_blank"} for detailed instruction on how to access the IBM virtual image that hosts the exercises.  You'll need to supply your credentials which are obtained by providing your email below on this page.
 
-2) Download the Open API 2.0 lab booklets from the folder located [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} 
+2) Download the Open API 2.0 API Provider lab booklets from the folder located [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI2){:target="_blank"} 
 
-3) Download the Open API 3.0 lab booklets from the folder loactated [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} 
+3) Download the Open API 2.0 API Requester lab booklets from the folder located [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/APIRequesters){:target="_blank"} 
+
+4) Download the Open API 3.0 lab booklets from the folder loactated [here](https://github.com/ibm-wsc/zCONNEE-Wildfire-Workshop/tree/master/OpenAPI3){:target="_blank"} 
 
 
 
